@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Wojtek</h1>
 
-[![HitCount](http://hits.dwyl.com/WojciechxFalkowski/WojciechxFalkowski.svg)](http://hits.dwyl.com/WojciechxFalkowski/WojciechxFalkowski)
-
 ### About me:
 
 - 🔭 Junior Frontend Developer looking for a job.
