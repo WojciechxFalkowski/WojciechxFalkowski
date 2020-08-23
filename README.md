@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Wojtek</h1>
 
-[![HitCount](http://hits.dwyl.com/WojciechxFalkowski/hits.svg)](https://github.com/dwyl/hits)
+[![HitCount](http://hits.dwyl.com/WojciechxFalkowski/https://githubcom/WojciechxFalkowski.svg)](http://hits.dwyl.com/WojciechxFalkowski/https://githubcom/WojciechxFalkowski)
 
 ### About me:
 
