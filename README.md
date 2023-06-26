@@ -1,11 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Wojtek</h1>
 
-### About me:
-
-- 🔭 Junior Frontend Developer looking for a job.
-- 🎓 I'm in my third year of studies towards a engineers in Computer Sciences.
-- 🌱 Learning everyday, currently learning to master React.
-
 ### Connect with me:
 
 [<img alt="WojciechxFalkowski | Facebook"  src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
