@@ -5,5 +5,5 @@
 [<img alt="WojciechxFalkowski | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 </br>
 
-[linkedin]: https://www.linkedin.com/in/wojtek-falkowski-841a951ab/
+[linkedin]: https://www.linkedin.com/in/wojciech-falkowski-841a951ab/
 [facebook]: https://www.facebook.com/wojtek.falkowski.1/
